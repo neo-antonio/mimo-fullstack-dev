@@ -3,14 +3,14 @@
 }
 
 body{
-    background-color: #f0f0f0;
-    color: #333;
+    background-color: #f3f3f3;
+    color: #1b1d1f;
     margin: 0;
     padding: 40px;
 }
 
 .container{
-    background-color: #FFF1EB;
+    background-color: #ebebed;
     border-radius: 30px;
     height: 400px;
     max-width: 900px; 
@@ -20,12 +20,12 @@ body{
 .header{
     height: 50px;
     align-items: center;
-    background-color: #e7decc;
+    background-color: #c9cdd2;
     border-radius: 30px 30px 0 0;
 }
 
 h1{
-    background-color: #e7decc;
+    background-color: #c9cdd2;
     margin: 20px;
     padding: 20px;
     font-size: x-large;
@@ -39,11 +39,12 @@ section{
     margin: 20px auto;
     gap: 20px;
     padding: 0 0 0 28px;
+    color: #D9DDDC;
 }
 
 button{
-    background-color: #e7decc;
-    color: black;
+    background-color: #c9cdd2;
+    color: #1b1d1f;
     border: none;
     padding: 15px 20px;
     text-align: center;
@@ -69,10 +70,9 @@ input{
 }
 
 #result{
-    color: black;
-    background-color: #e7decc;
+    color:#1b1d1f;
+    background-color: #c9cdd2;
     width: 180px;
-    max-width: 500px;
     margin-left: 3%;
     padding: 10px;
     border-radius: 10px;
@@ -82,4 +82,5 @@ input{
 footer{
     font-size: small;
     text-align: center;
+    color:#1b1d1f
 }

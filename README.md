@@ -3,6 +3,7 @@ Mimo is an online gamified course that teaches programming languages. Here are m
 
 ## Preview Projects
 1. [**Link Tree Project**](https://neo-antonio.github.io/mimo-fullstack-dev/1%20Linktree%20Project/)
+2. [**Unit Converter**] (https://neo-antonio.github.io/mimo-fullstack-dev/2%20Univer%20Converter/)
 
 ## Licensing
 
